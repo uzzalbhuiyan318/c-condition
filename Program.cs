@@ -53,5 +53,17 @@ class Test{
 
          Pos_or_Neg.PosOrNeg(PnNumber);
 
+         //declaring object for GradePoint class
+         // taking input from user for GradeFunction
+         int marks;
+
+         Console.WriteLine("Enter your marks for Grade function: ");
+         marks = int.Parse(Console.ReadLine());
+
+         GradePoint gradePoint = new GradePoint();
+
+         gradePoint.Grade(marks);
+
+
     }
 }
