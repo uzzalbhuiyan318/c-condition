@@ -12,3 +12,4 @@ D:\uzzal\Software development course-Alomgir Bhuiyan sir\c#\obj\Debug\net8.0\ref
 D:\uzzal\Software development course-Alomgir Bhuiyan sir\c#\obj\Debug\net8.0\c#.pdb
 D:\uzzal\Software development course-Alomgir Bhuiyan sir\c#\obj\Debug\net8.0\c#.genruntimeconfig.cache
 D:\uzzal\Software development course-Alomgir Bhuiyan sir\c#\obj\Debug\net8.0\ref\c#.dll
+D:\uzzal\Software development course-Alomgir Bhuiyan sir\c#\obj\Debug\net8.0\c#.sourcelink.json
