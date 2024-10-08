@@ -42,5 +42,16 @@ class Test{
          MaxThree maxThree = new MaxThree();
          maxThree.Max_three(Tnum1,Tnum2,Tnum3);
 
+
+         // declaring object for Positive_Negative class 
+         // taking input from user for PosOrNeg() function
+
+        int PnNumber;
+         Console.WriteLine("Enter your second number for PosOrNeg function: ");
+         PnNumber = int.Parse(Console.ReadLine());
+         PositiveOrNegative Pos_or_Neg = new PositiveOrNegative();
+
+         Pos_or_Neg.PosOrNeg(PnNumber);
+
     }
 }
